@@ -1,0 +1,6 @@
+.Texto{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background-color: rgb(198, 255, 236);
+}
